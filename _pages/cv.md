@@ -11,35 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Political Science (American Politics and Political Methodology), The Pennsylvania State University, 2021
+* Graduate Certificate, Survey Research Methodology, The Pennsylvania State University, 2020
+* M.A. in Political Science, The Pennsylvania State University, 2019
+* B.A. in Political Science and History (Double Major), Purchase College, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* September 2021-present: Postdoctoral Research Associate
+    * University of Kent, School of Psychology
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* November 2020-September 2021: Postdoctoral Research Fellow
+  * University of Exeter, Department of Politics
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
