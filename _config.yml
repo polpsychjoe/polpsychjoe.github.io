@@ -21,7 +21,7 @@ repository               : "polpsychjoe/polpsychjoe.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "mhorwood_Cardiff_University_070624_4894 Large.jpeg"
+  avatar           : "https://polpsychjoe.github.io/files/mhorwood_Cardiff_University_070624_4894%20Large.jpeg"
   name             : "Joseph Phillips"
   pronouns         : He/Him
   bio              : "Interdisciplinary political psychologist. American in the UK. First-gen university student."
