@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Joseph Phillips. I am a Postdoctoral Research Associate at the [Psychology and Public Policy Research Unit (PSYPOL)](https://research.kent.ac.uk/psypol/) at the University of Kent. Prior to this, I was a Postdoctoral Resarch Fellow at the University of Exeter. I received my PhD in 2021 from the Department of Political Science at the Pennsylvania State University. Prior to this, I received an MA in Political Science from the Pennsylvania State University in 2019 and a BA in Political Science and History from SUNY Purchase College.
+Hello! I'm Joseph Phillips. I am a Lecturer in Politics (Assistant Professor) at the [School of Law and Politics](https://www.cardiff.ac.uk/law-politics) at Cardiff University. Prior to this, I was a Postdoctoral Research Associate at the University of Kent from 2021-2024, and a Postdoctoral Research Fellow at the University of Exeter from 2020-2021. I received my PhD in 2021 from the Department of Political Science at the Pennsylvania State University. Prior to this, I received an MA in Political Science from the Pennsylvania State University in 2019 and a BA in Political Science and History from SUNY Purchase College.
 
 My research concerns polarization and misinformation, focusing on how they arise and their implications for liberal democracy. Much of my work takes a longitudinal approach to both survey and experimental data. While my training is in American politics, much of my more recent work uses samples from several advanced democracies. Future work will make ample use of data from panel surveys of adults and adolescents in the United Kingdom PSYPOL is currently preparing.
 
