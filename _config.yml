@@ -11,7 +11,7 @@ locale                   : "en-UK"
 title                    : "Joseph Phillips"
 title_separator          : "-"
 name                     : &name "Joseph Phillips"
-description              : &description "Postdoctoral Research Associate, University of Kent"
+description              : &description "Lecturer in Politics, Cardiff University"
 url                      : https://polpsychjoe.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "polpsychjoe/polpsychjoe.github.io"
